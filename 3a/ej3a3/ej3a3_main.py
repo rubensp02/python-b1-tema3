@@ -82,5 +82,4 @@ print(initial_date)
 print(final_date)
 print(
     f"Día medio entre la fecha {initial_date.date()} y {final_date.date()} "
-    f"es: {middle_date.date()}"
-)
+    f"es: {middle_date.date()}")
